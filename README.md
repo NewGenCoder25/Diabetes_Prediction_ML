@@ -19,8 +19,8 @@ Diabetes_Prediction_ML/
 │-- final_model.pkl    # Trained Model
 │-- scaler.pkl         # Scaler for Feature Scaling
 │-- data/
-│   │-- diabetes.csv   # Raw Dataset
-│   │-- cleaned_data.csv  # Cleaned Dataset
+│-- diabetes.csv       # Raw Dataset
+│-- cleaned_data.csv   # Cleaned Dataset
 │-- README.md          # Project Documentation
 ```
 
