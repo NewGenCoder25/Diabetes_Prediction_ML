@@ -4,4 +4,4 @@ scikit-learn
 pandas
 seaborn
 matplotlib
-joblib==1.4.2
+joblib
